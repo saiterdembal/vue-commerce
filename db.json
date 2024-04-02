@@ -1,0 +1,596 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "Marka": "Samsung",
+            "Hertz": "100",
+            "categoryId": 1,
+            "name": "Samsung 55Q70T",
+            "price": 34799,
+            "shortdesc": "55\"/ 100 Hz / Quantum Dot Display / Premium UHD",
+            "url": "tv/tv-samsung.jpeg"
+        },
+        {
+            "id": 2,
+            "Marka": "LG",
+            "categoryId": 1,
+            "name": "LG Nano Led",
+            "price": 37900,
+            "Hertz": "100",
+            "shortdesc": "55\" / 100 Hz / Nano Led / Premium UHD",
+            "url": "tv/tv-lg-2.jpeg"
+        },
+        {
+            "id": 3,
+            "Marka": "LG",
+            "categoryId": 1,
+            "name": "LG OLED",
+            "price": 45199,
+            "Hertz": "100",
+            "shortdesc": "65\" / 100 Hz / Nano Led / Premium UHD",
+            "url": "tv/tv-lg-oled.jpeg"
+        },
+        {
+            "id": 4,
+            "Marka": "LG",
+            "categoryId": 1,
+            "name": "LG 55Q UHD",
+            "price": 32600,
+            "Hertz": "50",
+            "shortdesc": "55\" / 50 Hz / LCD LED / UHD",
+            "url": "tv/tv-lg.jpeg"
+        },
+        {
+            "id": 5,
+            "Marka": "Philips",
+            "categoryId": 1,
+            "name": "Philips 65PS PLUS",
+            "price": 37299,
+            "Hertz": "50",
+            "shortdesc": "55\" / 50 Hz / Nano Led / Premium UHD",
+            "url": "tv/tv-philips-2.jpeg"
+        },
+        {
+            "id": 6,
+            "Marka": "Philips",
+            "categoryId": 1,
+            "name": "Philips OLED",
+            "price": 40199,
+            "Hertz": "100",
+            "shortdesc": "65\" / 100 Hz / OLED ",
+            "url": "tv/tv-philips.jpeg"
+        },
+        {
+            "id": 7,
+            "Marka": "Samsung",
+            "categoryId": 1,
+            "name": "Samsung 55OS OLED",
+            "price": 43899,
+            "Hertz": "100",
+            "shortdesc": "55\" / 100 Hz / OLED / Crystal FX",
+            "url": "tv/tv-samsung-oled-2.jpeg"
+        },
+        {
+            "id": 8,
+            "Marka": "Samsung",
+            "categoryId": 1,
+            "name": "Samsung 65 OLED",
+            "price": 55199,
+            "Hertz": "100",
+            "shortdesc": "65\" / 100 Hz / OLED / AI Display ",
+            "url": "tv/tv-samsung-oled.jpeg"
+        },
+        {
+            "id": 9,
+            "Marka": "TCL",
+            "categoryId": 1,
+            "name": "TCL 65TC52",
+            "price": 43899,
+            "Hertz": "100",
+            "shortdesc": "65\" / 100 Hz / LCD Led / UHD",
+            "url": "tv/tv-tcl.jpeg"
+        },
+        {
+            "id": 10,
+            "Marka": "Toshiba",
+            "categoryId": 1,
+            "name": "Toshiba 55UTS",
+            "price": 40199,
+            "Hertz": "100",
+            "shortdesc": "55\" / 100 Hz / LCD  / UHD",
+            "url": "tv/tv-toshiba-2.jpeg"
+        },
+        {
+            "id": 11,
+            "Marka": "Toshiba",
+            "categoryId": 1,
+            "name": "TOSHIBA 55THS UHD",
+            "price": 43899,
+            "Hertz": "50",
+            "shortdesc": "65\" / 50 Hz / LED  /  UHD",
+            "url": "tv/tv-toshiba.jpeg"
+        },
+        {
+            "id": 12,
+            "Marka": "Vestel",
+            "categoryId": 1,
+            "name": "VESTEL UHD",
+            "price": 43899,
+            "Hertz": "100",
+            "shortdesc": "65\" / 100 Hz / Nano Led / Premium UHD",
+            "url": "tv/tv-vestel.jpeg"
+        },
+        {
+            "id": 13,
+            "Marka": "Honor",
+            "Ram": "6 GB",
+            "categoryId": 2,
+            "name": "Honor HN65P",
+            "price": 8679,
+            "shortdesc": "6 Ram / IPS Ekran / 128 MB / 50Mp Arka Kamera / 20 Mb Ön Kamera",
+            "url": "phone/phone-honor.jpeg"
+        },
+        {
+            "id": 14,
+            "Marka": "Huawei",
+            "Ram": "8 GB",
+            "categoryId": 2,
+            "name": "Huawei P60 Pro",
+            "price": 9579,
+            "shortdesc": "8 Ram / IPS Ekran / 256 MB / 48Mp Arka Kamera / 24 Mb Ön Kamera",
+            "url": "phone/phone-huawei-p60-pro.jpeg"
+        },
+        {
+            "id": 15,
+            "Marka": "Iphone",
+            "Ram": "8 GB",
+            "categoryId": 2,
+            "name": "IPhone 14 Max",
+            "price": 8500,
+            "shortdesc": "8 Ram / IPS Ekran / 256 MB / 48Mp / 4 Kamera",
+            "url": "phone/phone-iphone.jpeg"
+        },
+        {
+            "id": 16,
+            "Marka": "Iphone",
+            "Ram": "8 GB",
+            "categoryId": 2,
+            "name": "Iphone Pro Max",
+            "price": 520,
+            "shortdesc": "8 Ram / IPS Ekran / 256 MB / 48Mp / 4 Kamera",
+            "url": "phone/phone-iphonepromax.jpeg"
+        },
+        {
+            "id": 17,
+            "Marka": "Oppo",
+            "Ram": "4 GB",
+            "categoryId": 2,
+            "name": "Oppo Reno 6",
+            "price": 8500,
+            "shortdesc": "4 Ram / IPS Ekran / 64 MB / 48Mp / 2 Kamera",
+            "url": "phone/phone-oppo-reno-6.jpeg"
+        },
+        {
+            "id": 18,
+            "Marka": "Redmi",
+            "Ram": "4 GB",
+            "categoryId": 2,
+            "name": "Redmi 8 Plus",
+            "price": 10800,
+            "shortdesc": "4 Ram / IPS Ekran / 64 MB / 48Mp / 2 Kamera",
+            "url": "phone/phone-redmi.jpeg"
+        },
+        {
+            "id": 19,
+            "Marka": "Samsung",
+            "Ram": "4 GB",
+            "categoryId": 2,
+            "name": "Samsung A74",
+            "price": 11200,
+            "shortdesc": "4 Ram / IPS Ekran / 64 MB / 48Mp / 2 Kamera",
+            "url": "phone/phone-samsung.jpeg"
+        },
+        {
+            "id": 20,
+            "Marka": "Xiaomi",
+            "Ram": "4 GB",
+            "categoryId": 2,
+            "name": "Xiaomi Note 8",
+            "price": 10190,
+            "shortdesc": "4 Ram / TN Ekran / 64 MB / 48Mp / 2 Kamera",
+            "url": "phone/phone-xiaomi.jpeg"
+        },
+        {
+            "id": 21,
+            "Hafıza": "1 TB",
+            "Model": "Playstation 4 Pro",
+            "categoryId": 3,
+            "name": "PS4 Pro + NBA2K20",
+            "price": 13499,
+            "shortdesc": "Sony Eurasia Garantili / 2 Yıl Garanti / Çift Kol",
+            "url": "console/console-ps4-pro.jpeg"
+        },
+        {
+            "id": 22,
+            "Hafıza": "1 TB",
+            "Model": "Playstation 4 Pro",
+            "categoryId": 3,
+            "name": "PS4 Pro + 3 Oyun",
+            "price": 10599,
+            "shortdesc": "Sony Eurasia Garantili / 2 Yıl Garanti / Çift Kol",
+            "url": "console/console-ps4-pro-game.jpeg"
+        },
+        {
+            "id": 23,
+            "Hafıza": "1 TB",
+            "Model": "Playstation 4",
+            "categoryId": 3,
+            "name": "PS4 Slim 1 TB",
+            "price": 10399,
+            "shortdesc": "İthalatçı Garantili / 2 Yıl Garanti / Tek Kol",
+            "url": "console/console-ps4-slim.jpeg"
+        },
+        {
+            "id": 24,
+            "Hafıza": "1 TB",
+            "Model": "Playstation 4",
+            "categoryId": 3,
+            "name": "PS4 Slim 1 TB",
+            "price": 11200,
+            "shortdesc": "Sony Eurasia Garantili / 1TB /  Tek Kol",
+            "url": "console/console-ps4-slim-trmenu.jpeg"
+        },
+        {
+            "id": 24,
+            "Hafıza": "825 GB",
+            "Model": "Playstation 5",
+            "categoryId": 3,
+            "name": "PS5 CD'li Versiyon",
+            "price": 21299,
+            "shortdesc": "Sony Eurasia Garantili / 825 GB /  Tek Kol",
+            "url": "console/console-ps5-cd.jpeg"
+        },
+        {
+            "id": 24,
+            "Hafıza": "825 GB",
+            "Model": "Playstation 5",
+            "categoryId": 3,
+            "name": "PS5 Digital Versiyon",
+            "price": 20099,
+            "shortdesc": "Sony Eurasia Garantili / 825 GB /  Tek Kol",
+            "url": "console/console-ps5-digital.jpeg"
+        },
+        {
+            "id": 24,
+            "Hafıza": "1 TB",
+            "Model": "Playstation 5",
+            "categoryId": 3,
+            "name": "PS5 Slim CD'li Versiyon",
+            "price": 22299,
+            "shortdesc": "Sony Eurasia Garantili / 1 TB /  Çift Kol / Stand",
+            "url": "console/console-ps5-slim-cd.jpeg"
+        },
+        {
+            "id": 25,
+            "Hafıza": "1 TB",
+            "Model": "Playstation 5",
+            "categoryId": 3,
+            "name": "PS5 Slim Digital Versiyon",
+            "price": 19388,
+            "shortdesc": "Sony Eurasia Garantili / 1 TB /  Çift Kol / Stand",
+            "url": "console/console-ps5-slim.jpeg"
+        },
+        {
+            "id": 26,
+            "Hafıza": "1 TB",
+            "Model": "Playstation 5",
+            "categoryId": 3,
+            "name": "PS5 Slim Digital Versiyon",
+            "price": 19099,
+            "shortdesc": "Sony Eurasia Garantili / 1 TB /  Çift Kol / Stand",
+            "url": "console/console-ps5-slim.jpeg"
+        },
+        {
+            "id": 27,
+            "Hafıza": "512 GB",
+            "Model": "XBOX Series S",
+            "categoryId": 3,
+            "name": "XBOX Series S 512 GB",
+            "price": 16899,
+            "shortdesc": "2 Yıl Garanti / 512 GB/  Tek Kol",
+            "url": "console/console-xbox-series-sbox.jpeg"
+        },
+        {
+            "id": 28,
+            "Hafıza": "1 TB",
+            "Model": "XBOX Series X",
+            "categoryId": 3,
+            "name": "XBOX Series X",
+            "price": 22199,
+            "shortdesc": "2 Yıl Garanti / 1 TB /  Tek Kol",
+            "url": "console/console-xbox-seriesx.jpeg"
+        },
+        {
+            "id": 29,
+            "Marka": "Asus",
+            "CPU": "i5",
+            "categoryId": 4,
+            "name": "ASUS TUF GAMING",
+            "price": 32199,
+            "shortdesc": "Intel Core i5 12040H / 8 GB Ram / VA Display / 512 GB SSD / Geforce RTX 3060 TI",
+            "url": "notebook/asus-tuf.jpeg"
+        },
+        {
+            "id": 30,
+            "Marka": "Acer",
+            "CPU": "i7",
+            "categoryId": 4,
+            "name": "Acer Nitro",
+            "price": 26799,
+            "shortdesc": "Intel Core i7 10110H / 8 GB Ram / IPS Ekran / 512 GB SSD / Geforce RTX 4060 ",
+            "url": "notebook/nb-acer-nitro.jpeg"
+        },
+        {
+            "id": 31,
+            "Marka": "Apple",
+            "CPU": "i7",
+            "categoryId": 4,
+            "name": "Apple Macbook Pro",
+            "price": 54599,
+            "shortdesc": "Intel Core i7 12040H / 8 GB Ram / VA Ekran / 512 GB SSD / Geforce RTX 2060 TI",
+            "url": "notebook/nb-apple-macbook.jpeg"
+        },
+        {
+            "id": 32,
+            "Marka": "MSI",
+            "CPU": "i5",
+            "categoryId": 4,
+            "name": "MSI Thin 7256",
+            "price": 27899,
+            "shortdesc": "Intel Core i5 10050U / 6 GB Ram / IPS Ekran / 512 GB SSD / Geforce RTX 3050",
+            "url": "notebook/nb-msi-thin.jpeg"
+        },
+        {
+            "id": 33,
+            "Marka": "Monster",
+            "CPU": "i5",
+            "categoryId": 4,
+            "name": "Monster Abra 16",
+            "price": 38639,
+            "shortdesc": "Intel Core i5 11020H / 12 GB Ram / VA Display / 512 GB SSD / Geforce RTX 4060 TI",
+            "url": "notebook/nb-monster.jpeg"
+        },
+        {
+            "id": 34,
+            "Marka": "Philips",
+            "categoryId": 1,
+            "name": "Philips OLED",
+            "price": 40199,
+            "Hertz": "100",
+            "shortdesc": "65\" / 100 Hz / OLED ",
+            "url": "tv/tv-philips.jpeg"
+        },
+        {
+            "id": 35,
+            "Marka": "Samsung",
+            "categoryId": 1,
+            "name": "Samsung 55OS OLED",
+            "price": 43899,
+            "Hertz": "100",
+            "shortdesc": "55\" / 100 Hz / OLED / Crystal FX",
+            "url": "tv/tv-samsung-oled-2.jpeg"
+        },
+        {
+            "id": 36,
+            "Marka": "LG",
+            "categoryId": 1,
+            "name": "LG OLED",
+            "price": 45199,
+            "Hertz": "100",
+            "shortdesc": "65\" / 100 Hz / Nano Led / Premium UHD",
+            "url": "tv/tv-lg-oled.jpeg"
+        }
+    ],
+    "categories": [
+        {
+            "categoryId": 1,
+            "filter1": "Marka",
+            "filter2": "Hertz",
+            "name": "Televizyonlar",
+            "color": "bg-orange-200",
+            "icon": "<svg class=\"h-6 w-6 text-gray-900 me-2\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\">  <path stroke=\"none\" d=\"M0 0h24v24H0z\" /> <rect x=\"3\" y=\"7\" width=\"18\" height=\"13\" rx=\"2\" /> <polyline points=\"16 3 12 7 8 3\" /></svg>"
+        },
+        {
+            "categoryId": 2,
+            "filter1": "Marka",
+            "filter2": "Ram",
+            "catFilters": "Marka, Ram",
+            "name": "Cep Telefonları",
+            "color": "bg-blue-200",
+            "icon": "<svg class=\"h-6 w-6 text-gray-900 me-2\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\">  <path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M10.5 1.5H8.25A2.25 2.25 0 0 0 6 3.75v16.5a2.25 2.25 0 0 0 2.25 2.25h7.5A2.25 2.25 0 0 0 18 20.25V3.75a2.25 2.25 0 0 0-2.25-2.25H13.5m-3 0V3h3V1.5m-3 0h3m-3 18.75h3\" /> </svg>"
+        },
+        {
+            "categoryId": 3,
+            "filter1": "Model",
+            "filter2": "Hafıza",
+            "name": "Oyun Konsolları",
+            "color": "bg-red-200",
+            "icon": "<svg class=\"h-6 w-6 text-gray-900 me-2\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"> <path stroke=\"none\" d=\"M0 0h24v24H0z\" /> <rect x=\"2\" y=\"6\" width=\"20\" height=\"12\" rx=\"2\" /> <path d=\"M6 12h4m-2 -2v4\" /> <line x1=\"15\" y1=\"11\" x2=\"15\" y2=\"11.01\" /> <line x1=\"18\" y1=\"13\" x2=\"18\" y2=\"13.01\" /> </svg>"
+        },
+        {
+            "categoryId": 4,
+            "filter1": "Marka",
+            "filter2": "CPU",
+            "catFilters": "Marka, CPU",
+            "name": "Laptoplar",
+            "color": "bg-green-200",
+            "icon": "<svg class=\"h-6 w-6 text-gray-900 me-2\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" stroke-width=\"2\" stroke=\"currentColor\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"> <path stroke=\"none\" d=\"M0 0h24v24H0z\" /> <line x1=\"3\" y1=\"19\" x2=\"21\" y2=\"19\" /> <rect x=\"5\" y=\"6\" width=\"14\" height=\"10\" rx=\"1\" /> </svg>"
+        }
+    ],
+    "filters": [
+        {
+            "id": 1,
+            "select": {
+                "Marka": [
+                    {
+                        "value": "Samsung",
+                        "type": "Marka"
+                    },
+                    {
+                        "value": "LG",
+                        "type": "Marka"
+                    },
+                    {
+                        "value": "Philips",
+                        "type": "Marka"
+                    },
+                    {
+                        "value": "Vestel",
+                        "type": "Marka"
+                    },
+                    {
+                        "value": "TCL",
+                        "type": "Marka"
+                    }
+                ],
+                "Hertz": [
+                    {
+                        "value": "50",
+                        "type": "Hertz"
+                    },
+                    {
+                        "value": "100",
+                        "type": "Hertz"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "select": {
+                "Marka": [
+                    {
+                        "value": "Iphone",
+                        "type": "Marka"
+                    },
+                    {
+                        "value": "Samsung",
+                        "type": "Marka"
+                    },
+                    {
+                        "value": "Huawei",
+                        "type": "Marka"
+                    },
+                    {
+                        "value": "Xiaomi",
+                        "type": "Marka"
+                    },
+                    {
+                        "value": "Redmi",
+                        "type": "Marka"
+                    },
+                    {
+                        "value": "Honor",
+                        "type": "Marka"
+                    }
+                ],
+                "Ram": [
+                    {
+                        "value": "4 GB",
+                        "type": "Ram"
+                    },
+                    {
+                        "value": "6 GB",
+                        "type": "Ram"
+                    },
+                    {
+                        "value": "8 GB",
+                        "type": "Ram"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "select": {
+                "Model": [
+                    {
+                        "value": "Playstation 5",
+                        "type": "Model"
+                    },
+                    {
+                        "value": "Playstation 4 Pro",
+                        "type": "Model"
+                    },
+                    {
+                        "value": "Playstation 4",
+                        "type": "Model"
+                    },
+                    {
+                        "value": "XBOX Series X",
+                        "type": "Model"
+                    },
+                    {
+                        "value": "XBOX Series S",
+                        "type": "Model"
+                    }
+                ],
+                "Hafıza": [
+                    {
+                        "value": "512 GB",
+                        "type": "Hafıza"
+                    },
+                    {
+                        "value": "825 GB",
+                        "type": "Hafıza"
+                    },
+                    {
+                        "value": "1 TB",
+                        "type": "Hafıza"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "select": {
+                "Marka": [
+                    {
+                        "value": "Asus",
+                        "type": "Marka"
+                    },
+                    {
+                        "value": "Acer",
+                        "type": "Marka"
+                    },
+                    {
+                        "value": "Apple",
+                        "type": "Marka"
+                    },
+                    {
+                        "value": "MSI",
+                        "type": "Marka"
+                    },
+                    {
+                        "value": "Monster",
+                        "type": "Marka"
+                    }
+                ],
+                "CPU": [
+                    {
+                        "value": "i7",
+                        "type": "CPU"
+                    },
+                    {
+                        "value": "i5",
+                        "type": "CPU"
+                    },
+                    {
+                        "value": "i3",
+                        "type": "CPU"
+                    }
+                ]
+            }
+        }
+    ]
+}
